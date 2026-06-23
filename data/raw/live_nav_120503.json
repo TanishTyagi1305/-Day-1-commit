@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "meta": {
+    "fund_house": "ICICI Prudential Mutual Fund",
+    "scheme_type": "Open Ended Schemes",
+    "scheme_category": "Equity Scheme - Large Cap Fund",
+    "scheme_code": 120503,
+    "scheme_name": "ICICI Prudential Bluechip Fund - Regular Plan - Growth"
+  },
+  "data": [
+    {
+      "date": "29-05-2026",
+      "nav": "118.1496"
+    }
+  ]
+}

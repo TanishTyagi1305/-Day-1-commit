@@ -1,0 +1,42 @@
+{
+  "status": "SUCCESS",
+  "fetched_at": "2026-06-23",
+  "source": "https://api.mfapi.in",
+  "schemes": [
+    {
+      "amfi_code": 119551,
+      "fund_house": "SBI Mutual Fund",
+      "scheme_name": "SBI Bluechip Fund - Regular Plan - Growth",
+      "nav_date": "29-05-2026",
+      "nav": 149.3216
+    },
+    {
+      "amfi_code": 120503,
+      "fund_house": "ICICI Prudential Mutual Fund",
+      "scheme_name": "ICICI Prudential Bluechip Fund - Regular Plan - Growth",
+      "nav_date": "29-05-2026",
+      "nav": 118.1496
+    },
+    {
+      "amfi_code": 118632,
+      "fund_house": "Nippon India Mutual Fund",
+      "scheme_name": "Nippon India Large Cap Fund - Regular Plan - Growth",
+      "nav_date": "29-05-2026",
+      "nav": 110.5554
+    },
+    {
+      "amfi_code": 119092,
+      "fund_house": "Axis Mutual Fund",
+      "scheme_name": "Axis Bluechip Fund - Regular Plan - Growth",
+      "nav_date": "29-05-2026",
+      "nav": 50.8387
+    },
+    {
+      "amfi_code": 120841,
+      "fund_house": "Kotak Mahindra Mutual Fund",
+      "scheme_name": "Kotak Bluechip Fund - Regular Plan - Growth",
+      "nav_date": "29-05-2026",
+      "nav": 482.127
+    }
+  ]
+}
